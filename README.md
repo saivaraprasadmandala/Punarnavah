@@ -54,19 +54,14 @@ We've published a common package for schema validation and type safety:
 
 ## 🔗 Important Links
 
-- **Website:** [https://punarnavah.abhiramverse.tech/](https://punarnavah.abhiramverse.tech/)
-- **API Server:** [https://punarnavah-server.abhiramverse.tech/](https://punarnavah-server.abhiramverse.tech/)
-- **NPM Package:** [https://www.npmjs.com/package/@abhiram2k03/punarnavah-common](https://www.npmjs.com/package/@abhiram2k03/punarnavah-common)
-- **Docker Image:** [https://hub.docker.com/repository/docker/saiabhiramjaini/punarnavah-server/general](https://hub.docker.com/repository/docker/saiabhiramjaini/punarnavah-server/general)
+- **Website:** [Punarnavah Platform](https://punarnavah.abhiramverse.tech/)
+- **API Server:** [Punarnavah API](https://punarnavah-server.abhiramverse.tech/)
+- **NPM Package:** [Punarnavah Common](https://www.npmjs.com/package/@abhiram2k03/punarnavah-common)
+- **Docker Image:** [Punarnavah Server](https://hub.docker.com/repository/docker/saiabhiramjaini/punarnavah-server/general)
+
+
 
 ## 🚀 Getting Started
-
-### Prerequisites
-Ensure you have the following installed:
-- Node.js
-- Docker (for deployment)
-- PostgreSQL (for the database)
-
 
 - Clone the repository
 ```bash
