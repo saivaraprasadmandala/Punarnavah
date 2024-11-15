@@ -1,6 +1,6 @@
 # Punarnavah - Turning Waste into Opportunity
 
-A sustainable waste management platform platform linking households, artisans, and industries to promote waste reuse, enabling artisans to source upcyclable materials, create upcycled products, and sell them online for income.
+A circular economy-driven platform linking households, artisans, and industries to promote waste reuse, enabling artisans to source upcyclable materials, create upcycled products, and sell them online for income.
 
 ## 🌟 Features
 
@@ -60,6 +60,13 @@ We've published a common package for schema validation and type safety:
 - **Docker Image:** [https://hub.docker.com/repository/docker/saiabhiramjaini/punarnavah-server/general](https://hub.docker.com/repository/docker/saiabhiramjaini/punarnavah-server/general)
 
 ## 🚀 Getting Started
+
+### Prerequisites
+Ensure you have the following installed:
+- Node.js
+- Docker (for deployment)
+- PostgreSQL (for the database)
+
 
 - Clone the repository
 ```bash
