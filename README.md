@@ -122,7 +122,7 @@ npm run dev
 
 ## 🤝 Contribute to Punarnavah!
 
-I welcome contributions to Punarnavah! Please feel free to submit issues and pull requests.
+We welcome contributions to Punarnavah! Please feel free to submit issues and pull requests.
 
 1. 🌿 Fork the repository
 2. 🌟 Create your feature branch (`git checkout -b feature/AmazingFeature`)
