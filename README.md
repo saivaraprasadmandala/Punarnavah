@@ -1,6 +1,6 @@
 # Punarnavah - Turning Waste into Opportunity
 
-A sustainable waste management platform connecting households, artisans, and municipalities to promote circular economy and efficient waste utilization.
+A sustainable waste management platform platform linking households, artisans, and industries to promote waste reuse, enabling artisans to source upcyclable materials, create upcycled products, and sell them online for income.
 
 ## 🌟 Features
 
